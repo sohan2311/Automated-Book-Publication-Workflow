@@ -230,7 +230,7 @@ mypy main_file.py
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Gemini AI** for powerful language processing
 - **Gradio** for the amazing interface framework
