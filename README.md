@@ -13,7 +13,7 @@ An advanced AI-driven content processing pipeline that automates the entire book
 
 *Click the badge above to watch a complete walkthrough of the Book Publication Workflow in action!*
 
-> **Note**: Replace the video link with your actual demonstration video URL
+
 
 ## 🎯 Features
 
