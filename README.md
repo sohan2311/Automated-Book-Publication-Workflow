@@ -242,14 +242,14 @@ mypy main_file.py
 
 ### 👨‍💻 Developer
 **Sohan Maity**
-- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sohan-maity-26881a288/)
-- 🐙 GitHub: [@sohan2311](https://github.com/sohan2311)
+-  LinkedIn: [Connect with me](https://www.linkedin.com/in/sohan-maity-26881a288/)
+-  GitHub: [@sohan2311](https://github.com/sohan2311)
 
 
-### 🐛 Issues & Feature Requests
-- 🔍 [Browse Issues](https://github.com/sohan2311/automated-book-publication-workflow/issues)
-- 💡 [Request Feature](https://github.com/sohan2311/automated-book-publication-workflow/issues/new)
-- 🐛 [Report Bug](https://github.com/sohan2311/automated-book-publication-workflow/issues/new)
+###  Issues & Feature Requests
+-  [Browse Issues](https://github.com/sohan2311/automated-book-publication-workflow/issues)
+-  [Request Feature](https://github.com/sohan2311/automated-book-publication-workflow/issues/new)
+-  [Report Bug](https://github.com/sohan2311/automated-book-publication-workflow/issues/new)
 
 ## 🌟 Show Your Support
 
