@@ -7,6 +7,14 @@
 
 An advanced AI-driven content processing pipeline that automates the entire book publication workflow - from web scraping to publication-ready content. Built with Python, Gradio, and Google's Gemini AI.
 
+## 🎥 Video Demonstration
+
+[![Watch the Demo](https://img.shields.io/badge/📺_Watch_Demo-Click_Here-red.svg?style=for-the-badge)](https://your-video-link-here.com)
+
+*Click the badge above to watch a complete walkthrough of the Book Publication Workflow in action!*
+
+> **Note**: Replace the video link with your actual demonstration video URL
+
 ## 🎯 Features
 
 ### 🔄 **Complete Pipeline Automation**
@@ -152,13 +160,7 @@ EXPORTS_PATH=./exports
 - Search result rankings
 - Export format templates
 
-## 🎥 Video Demonstration
 
-[![Watch the Demo](https://img.shields.io/badge/📺_Watch_Demo-Click_Here-red.svg?style=for-the-badge)](https://your-video-link-here.com)
-
-*Click the badge above to watch a complete walkthrough of the Book Publication Workflow in action!*
-
-> **Note**: Replace the video link with your actual demonstration video URL
 
 ## 📁 Project Structure
 
