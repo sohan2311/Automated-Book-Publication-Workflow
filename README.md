@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Gradio](https://img.shields.io/badge/Gradio-Latest-orange.svg)](https://gradio.app/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple.svg)](https://ai.google.dev/)
 
 An advanced AI-driven content processing pipeline that automates the entire book publication workflow - from web scraping to publication-ready content. Built with Python, Gradio, and Google's Gemini AI.
@@ -245,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sohan Maity**
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/sohan-maity-26881a288/)
 - 🐙 GitHub: [@sohan2311](https://github.com/sohan2311)
-- 📧 Email: [Contact via LinkedIn](https://www.linkedin.com/in/sohan-maity-26881a288/)
+
 
 ### 🐛 Issues & Feature Requests
 - 🔍 [Browse Issues](https://github.com/sohan2311/automated-book-publication-workflow/issues)
