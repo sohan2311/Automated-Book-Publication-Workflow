@@ -9,7 +9,7 @@ An advanced AI-driven content processing pipeline that automates the entire book
 
 ## 🎥 Video Demonstration
 
-[![Watch the Demo](https://img.shields.io/badge/📺_Watch_Demo-Click_Here-red.svg?style=for-the-badge)](https://iiitkacin-my.sharepoint.com/:v:/g/personal/523ec0001_iiitk_ac_in/EdBhnsPSMjFDkHb0XtVAGn0BZ1p1qJh-bjr_D-mXvQ_gUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=iG0oks)
+[![Watch the Demo](https://img.shields.io/badge/📺_Watch_Demo-Click_Here-red.svg?style=for-the-badge)](https://drive.google.com/file/d/1BaeD-SR8exjnmSKc_EsXmcA2vW26tOxW/view?usp=sharing)
 
 *Click the badge above to watch a complete walkthrough of the Book Publication Workflow in action!*
 
