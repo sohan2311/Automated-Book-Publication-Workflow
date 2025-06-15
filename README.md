@@ -267,6 +267,6 @@ If this project helped you, please consider:
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-purple.svg)](https://ai.google.dev/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-green.svg)](https://opensource.org/)
+
 
 </div>
