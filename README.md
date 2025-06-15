@@ -228,9 +228,7 @@ black main_file.py
 mypy main_file.py
 ```
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
